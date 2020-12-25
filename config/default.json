@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "databaseURI": "mongodb+srv://aidera:UyH4I9o2WCQD3Ii2@cluster0.r7sxs.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "aidera",
+  "tokenExpiresIn": 3600000
+}
